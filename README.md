@@ -1,1 +1,1 @@
-# imageNumber_Parse
+# 使用python解析美团网图片式价格
